@@ -160,12 +160,6 @@ Partune is Android-only for now. Releasing it on iOS needs a test iPhone, a Mac 
 
 </div>
 
-The counter is in [`ios-goal.json`](ios-goal.json). The app reads it when you open the *Partune Pro* page (and keeps the last value for offline use), and the badges above update with it:
-
-```json
-{"raised": 15, "goal": 3000}
-```
-
 ---
 
 ## 🛠️ Build
